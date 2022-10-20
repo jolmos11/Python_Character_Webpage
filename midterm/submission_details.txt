@@ -1,0 +1,27 @@
+---What happens if the file page-head.txt is missing whe you run the program?---
+--> A "FileNotFoundError" occurs, the program cannot find the page-head.txt file to open.
+
+
+---How would we change the look and feel of the generated webpage?---
+-->styles.css controls much of how the page looks, like text position, size, font, color,
+-->text relative to each other. We will need to edit this file to create change to how the
+--> page looks.
+
+
+---How could we modify the program to work so that user input was not required to build the character?
+-->We can just write the text ourselves what the program is asking and skip telling the user what to do.
+-->So the input statments will not be necessary.
+
+---What happens if we were to move files from the assets folder?---
+-->Since when we ran the program and the webpage was created, the program knows the page-head.txt,
+-->page-footer.txt, and styles.css are in the assets folder. If we were to move it the program cannot open/access
+-->those files since they are not in the assets folder. We will need to specify where those files are.
+
+
+---Why did we include the file page-footer.txt?--
+-->page-footer.txt contains the closing tags for the webpage. This file comes last since those tags close the body and html tag.
+
+
+---Why does the combined_page variable need to be built in a specific order?---
+-->HTML pages are built is a specific order, <head> tag first, then the <body> tag. These tags are contained
+--> in the <html> tag. So it is important to be specific and order the variables in sequence when we create the combined_page variable.

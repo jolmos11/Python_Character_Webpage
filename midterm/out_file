@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+    <!-- This is the top half of the template. 
+    This file is intentionally incomplete  -->
+
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="assets/styles.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link
+            href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400;1,800&family=Roboto+Slab:wght@400;700&display=swap"
+            rel="stylesheet">
+        <title>Python - Create Webpages From a Template</title>
+    </head>
+
+    <body>galahad<h2>john</h2>john<p>night of the nights watch</p><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.yK7sNJphLZdBKsmLHDKQHQHaHa%26pid%3DApi&f=1&ipt=85c8ad54d41f71c621f7d71d7d7ca4dc577fbc86f4b0c31977830503b0cd198a&ipo=images" alt="galahad">
+<!-- This is the bottom of the template. 
+    This file is intentionally incomplete  -->
+</body>
+
+</html>
