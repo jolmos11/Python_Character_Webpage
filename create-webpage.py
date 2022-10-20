@@ -59,4 +59,4 @@ f.close()
 #Lets the user know that the character webpage creator file has been created with
 #the file name.
 print("Created {}".format(out_file))
-
+ 
